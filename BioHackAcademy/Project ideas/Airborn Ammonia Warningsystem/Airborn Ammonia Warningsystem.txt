@@ -1,0 +1,30 @@
+Airborn ammonia warningsystem 
+Researching the smelling posibilities of bacteria (bacterial olfaction) I stumbled upon the Bacillus Subtilis. Bacillus subtilis cells are rod-shaped, Gram-positive bacteria that are naturally found in soil and vegetation. It is easy to grow because it can survive harsh conditions, even cooking in water!
+It responds to the  smell of ammonia by producing a biofilm -- or 'slime' -- the individual bacteria joining together to colonise an area in a bid to push out any potential competitor.
+What I would like to do is create a detector wit hit that can warn me when there is ammonia in the air. As an example for other biosensors.
+I will take the following steps:
+1.	How to grow it 
+	LBA (source: http://2014.igem.org/wiki/images/5/59/LMU_Munich14_Media.pdf)
+2.	Check for its contamination level:
+	Well characterized non pathogenic organisms to humans, so I can freely play with it
+3.	Grow it several petridishes 
+	to test how it reacts to ammonia at different distances
+4.	Test gram positiveness (just for the excersise)
+5.	Study the reaction time
+6.	Try to describe the reaction in such a way that I can translate it into a trigger.
+7.	Connect the trigger through Arduino and the If this Then That website to a sms on my phone
+
+Terminology:
+
+Olfaction: sensing of airborne volatile compounds
+Cells are constantly, sending messages to each other to coordinate behavior, both within a population of single-celled organisms or between cells of an individual multicellular organism. Most of these signals are chemicals that float around in the liquid that surrounds the cells but there recently has been an increased appreciation for cells’ sense of “smell”–how cells respond to chemicals that are present as gasses/
+Bacteria growing closer to wells that were producing gaseous ammonia were forming more pigment and more vigorous biofilms. As olfaction can be defined at its simplest as responding in some way to volatile chemicals, these bacteria seem to display olfaction, although the details of how the ammonia to biofilm response occurs have not yet been explored (source: http://scienceblogs.com/oscillator/2010/09/08/wireless-communication/)
+
+Bacterias and their sensing
+This latest discovery shows that bacteria are capable of at least four of the five senses; a responsiveness to light -- sight -- contact-dependent gene expression -- touch -- and a response to chemicals and toxins in their environment either through direct contact -- taste -- or through the air -- smell. (source: http://www.sciencedaily.com/releases/2010/08/100816095719.htm)
+Ammonia is one of the simplest sources of nitrogen -- a key nutrient for bacterial growth. Using rival bacteria Bacillus subtilis and B.licheniformus, both commonly found in the soil, the team found that each produced a biofilm in response to airborne ammonia and that the response decreased as the distance between the two bacterial colonies increased. (source: http://www.sciencedaily.com/releases/2010/08/100816095719.htm)
+A very recent paper found through clever genetic and biochemical experiments that the bacteria are again "smelling" ammonia, which changes the permeability of the cell membrane, preventing antibiotics from getting inside and killing the cell, a finding that may impact our understanding of non-inherited antibiotic resistance (PDF). (source: http://blogs.scientificamerican.com/oscillator/httpblogsscientificamericancomoscillator20110719smelling-bacteria/) 
+
+Biofilm
+A biofilm is any group of microorganisms in which cells stick to each other on a surface.
+Biofilm is a major cause of infection on medical implants such as heart valves, artificial hips and even breast implants. Also known as 'biofouling' it costs the marine industry millions every year, slowing ships down and wasting precious fuel. But it also has its advantages. Certain biofilms thrive on petroleum oil and can be used to clean up an oil spill.

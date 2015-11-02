@@ -1,0 +1,8 @@
+
+Once the ammonia is detected, the bacteria will react. The challenge is to measure this reaction as to trigger the warningsystem.
+Several options are open:
+
+1. Color change
+This was realised by the university of Groningen. The Food Warden is a system which detects meat spoilage. It uses Bacillus subtilis cells. Their natural genetic response to the gases of rotten meat has been identified and linked to a pigment production system. In this way, a consumer can easily see when the meat is spoiled: it's rotten and you know it! But... they genetically modified the B.subtilis for it... (http://2012.igem.org/Team:Groningen)
+2. Changes in resistance? (letting a current go through?)
+3. timelapse foto's 

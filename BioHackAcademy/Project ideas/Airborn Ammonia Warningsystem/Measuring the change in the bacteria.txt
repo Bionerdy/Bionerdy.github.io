@@ -4,5 +4,8 @@ Several options are open:
 
 1. Color change
 This was realised by the university of Groningen. The Food Warden is a system which detects meat spoilage. It uses Bacillus subtilis cells. Their natural genetic response to the gases of rotten meat has been identified and linked to a pigment production system. In this way, a consumer can easily see when the meat is spoiled: it's rotten and you know it! But... they genetically modified the B.subtilis for it... (http://2012.igem.org/Team:Groningen)
-2. Changes in resistance? (letting a current go through?)
+2. Changes in density in a liquid 
 3. timelapse foto's 
+It appeared quite naive to think it could be measured easily, the bacil is so small, you can hardly see it under a microscope, let alone see changes in structure. So visually the options are limited. At the moment I'm studying to check the difference by gram staining.
+
+Despite their thicker peptidoglycan layer, gram-positive bacteria are more receptive to antibiotics than gram-negative, due to the absence of the outer membrane. The presence of ammonia 
